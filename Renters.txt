@@ -1,0 +1,8 @@
+Fred        1234567      021475869      eamonn@gmail.com      Renter     234 street        
+Tud         1234567      021475868      david@gmail.com       Owner      678 street
+Cat         1234567      021475867      john@gmail.com        Admin      456 street
+Dog         1234567      021475866      bob@gmail.com         Office     53654 street
+Bat         1234567      021475845      Klye@gmail.com        Renter     345 street
+Pig         1234567      021445569      tim@gmail.com         Renter     545 street
+Frog        1234567      021345678      steve@gmail.com       Renter     123 road 
+Woldo       1234567      021567348      woldo@gmail.com       Renter     765 tin

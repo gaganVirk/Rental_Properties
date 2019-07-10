@@ -1,0 +1,8 @@
+Eamonn      abc123a      021475869      eamonn@gmail.com      Admin      234 street
+david       1234532      021475868      david@gmail.com       Owner      678 street
+John        5432123      021475867      john@gmail.com        Manager    456 street
+Bob         1234567      021475866      bob@gmail.com         Renter     53654 street
+Klye        7654321      021475845      Klye@gmail.com        Office     34 street
+Tim         9876542      021445569      tim@gmail.com         Admin      545 street
+Steve       1234567      021345678      steve@gmail.com       Renter     123 road 
+Woldo       1234567      021567348      woldo@gmail.com       Owner      765 tin
